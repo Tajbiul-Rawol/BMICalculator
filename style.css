@@ -1,0 +1,63 @@
+body{
+    background-color: aqua;
+}
+
+#container{
+    border: black 1px solid;
+    width: 375px;
+    height: 525px;
+    margin-left: 300px;
+    margin-top: 65px;
+    padding-left: 30px;
+    background-color:yellow
+}
+
+h1{
+    margin-left: 20%;
+}
+
+#cm{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+    border-radius: 8px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#kg{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+    border-radius: 8px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+
+#button{
+    background-color:springgreen;
+    padding: 8px;
+    border-radius: 8px;
+    display: block;
+    margin-left: 30%;
+    margin-top: 20px;
+    font-size: large;
+}
+
+#button:hover{
+    color:#fff;
+    background-color: teal;
+    cursor: pointer;
+}
+
+#weightguide{
+    margin-left: 78px;
+    margin-top: 50px;
+}
+
+#result{
+    margin-left: 35%;
+    font-size: large;
+    font-weight: 300px;
+}
